@@ -12,6 +12,7 @@
 
 [![Website](https://img.shields.io/badge/Website-AnyUp-blue)](https://wimmerth.github.io/anyup/)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.12764-b31b1b.svg)](https://arxiv.org/abs/2510.12764)
+[![Colab](https://img.shields.io/badge/Colab-AnyUp-blue?logo=googlecolab)](https://colab.research.google.com/github/wimmerth/anyup/blob/main/example_usage.ipynb)
 
 [![AnyUp Teaser](https://wimmerth.github.io/anyup/assets/figures/teaser-anyup.png)](https://wimmerth.github.io/anyup/)
 
