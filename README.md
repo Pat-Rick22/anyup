@@ -91,3 +91,16 @@ We built our implementation on top of the [JAFAR repository](https://github.com/
 authors for open-sourcing their code. Other note-worthy open-source repositories include:
 [LoftUp](https://github.com/andrehuang/loftup), [FeatUp](https://github.com/mhamilton723/FeatUp), and
 [Probe3D](https://github.com/mbanani/probe3d).
+
+---
+### Citation
+
+If you find our work useful in your research, please cite it as:
+```
+@article{wimmer2025anyup,
+    title={AnyUp: Universal Feature Upsampling},
+    author={Wimmer, Thomas and Truong, Prune and Rakotosaona, Marie-Julie and Oechsle, Michael and Tombari, Federico and Schiele, Bernt and Lenssen, Jan Eric},
+    journal={arXiv preprint arXiv:2510.12764},
+    year={2025}
+}
+```
