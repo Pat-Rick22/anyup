@@ -10,10 +10,10 @@
 
 <sup>1</sup>Max Planck Institute for Informatics, <sup>2</sup>ETH Zurich, <sup>3</sup>Google, <sup>4</sup>TU Munich
 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2510.xxxxx)
 [![Website](https://img.shields.io/badge/Website-AnyUp-blue)](https://wimmerth.github.io/anyup/)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.12764-b31b1b.svg)](https://arxiv.org/abs/2510.12764)
 
-![AnyUp Teaser](https://wimmerth.github.io/anyup/assets/figures/teaser-anyup.png)
+[![AnyUp Teaser](https://wimmerth.github.io/anyup/assets/figures/teaser-anyup.png)](https://wimmerth.github.io/anyup/)
 
 **Abstract:**
 
